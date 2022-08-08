@@ -35,9 +35,6 @@
     "Firebase/RemoteConfig": [
       "~> 8.15.0"
     ],
-    "GoogleAppMeasurement": [
-      "~> 8.12"
-    ],
     "GoogleUserMessagingPlatform": [
       ">= 1.1"
     ],
