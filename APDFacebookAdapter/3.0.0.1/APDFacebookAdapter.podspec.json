@@ -26,6 +26,9 @@
     "APDFacebookAdapter-3.0.0.1/APDFacebookAdapter.xcframework"
   ],
   "dependencies": {
+    "FBSDKCoreKit": [
+      "~> 9.3.0"
+    ],
     "Appodeal": [
       "3.0.0"
     ]
