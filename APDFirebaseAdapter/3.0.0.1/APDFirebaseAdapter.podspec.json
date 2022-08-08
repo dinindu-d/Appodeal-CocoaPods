@@ -26,15 +26,6 @@
     "APDFirebaseAdapter-3.0.0.1/APDFirebaseAdapter.xcframework"
   ],
   "dependencies": {
-    "Firebase/Core": [
-      "~> 8.15.0"
-    ],
-    "Firebase/Analytics": [
-      "~> 8.15.0"
-    ],
-    "Firebase/RemoteConfig": [
-      "~> 8.15.0"
-    ],
     "GoogleUserMessagingPlatform": [
       ">= 1.1"
     ],
