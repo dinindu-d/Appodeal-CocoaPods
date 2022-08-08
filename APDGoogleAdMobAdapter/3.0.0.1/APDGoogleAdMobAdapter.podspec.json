@@ -30,7 +30,7 @@
       "= 9.5.0"
     ],
     "GoogleAppMeasurement": [
-      "~> 8.12"
+      "= 9.1.0"
     ],
     "GoogleUserMessagingPlatform": [
       ">= 1.1"
